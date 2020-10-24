@@ -1,0 +1,73 @@
+@media (max-width:996px) {
+    .mobile-menu{
+        display: block;
+        position: fixed;
+        right: 12%;
+        z-index: 5;
+    }
+    .top-menu {
+        display: none;
+    }
+    .top-menu{
+        position: fixed;
+        z-index: 4;
+        background: #4a4a4a;
+        right: -100%;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        transition: .5s;
+    }
+    .top-menu a{
+        margin-bottom: 20px;
+    }
+    .top-menu-item:before, .top-menu-item:after {
+        bottom: -5px;
+    }
+    .top-menu.show{
+        right: 0;
+        z-index: 2;
+    }
+
+    element.style {
+    }
+    .hero-title {
+        font-size: 39px;
+    }
+    .hero-desc {
+        font-size: 18px;
+    }
+    .down-btn{
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+    .about-btn{
+        margin-bottom: 40px;
+    }
+    .section-title {
+        font-size: 39px;
+    }
+    .our-team{
+        padding-bottom:110px;
+    }
+    .team-item{
+        margin-bottom: 40px;
+    }
+    .services{
+        padding-bottom: 20px;
+    }
+    .services-item{
+        margin-bottom: 60px;
+    }
+    .brands-list__inner{
+        padding: 20px 0;
+    }
+    .work-overlay__heading {
+        font-size: 17px;
+    }
+}
