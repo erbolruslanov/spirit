@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a23344c6-f35b-4970-9f0b-77d9402be681" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    <list default="true" id="a23344c6-f35b-4970-9f0b-77d9402be681" name="Default Changelist" comment="spirit project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +72,16 @@
       <workItem from="1603261885531" duration="893000" />
       <workItem from="1603306710134" duration="13748000" />
       <workItem from="1603365701025" duration="400000" />
+      <workItem from="1603522437985" duration="753000" />
     </task>
+    <task id="LOCAL-00001" summary="spirit project">
+      <created>1603522575239</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603522575239</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +99,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spirit project" />
+    <option name="LAST_COMMIT_MESSAGE" value="spirit project" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="445" y="255" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602658333045">
       <screen x="0" y="23" width="1440" height="816" />
@@ -104,5 +116,9 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="232" y="85" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1602667991125" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1603522646096">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1603522646095" />
   </component>
 </project>
